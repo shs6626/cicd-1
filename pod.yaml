@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: hello-world-pod
-  namespace: vanilla
+  namespace: test
   labels:
     app: hello-world
 spec:
